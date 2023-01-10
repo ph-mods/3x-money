@@ -1,0 +1,6 @@
+﻿<Database>
+    <!-- Override the default tweakable value -->
+    <GameDBTweakableInt ID="TWEAKABLE_PATIENT_PAYMENTS_PERCENT">
+        <Value>300</Value>
+    </GameDBTweakableInt>
+</Database> 
